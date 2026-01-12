@@ -1,4 +1,5 @@
-Cheesy chicken and broccoli rice bake
+recipe: Cheesy chicken and broccoli rice bake
+author: instagram.com/nutritionbymia
 
 Ingredients:
 1 cup uncooked basmati rice, rinsed
